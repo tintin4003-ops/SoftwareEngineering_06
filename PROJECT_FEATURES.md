@@ -16,3 +16,7 @@ As a Teacher, I want to verify student's completed workshops so that their achie
 
 **Status: Implemented**
 
+## T-20: Schedule one-on-one advising sessions
+As a Teacher, I want to schedule one-on-one advising sessions so that I can support students individually
+**Status: Implemented**
+
